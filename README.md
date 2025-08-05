@@ -3,6 +3,8 @@
 Repositório com **exercícios curtos e comentados** desenvolvidos durante a disciplina de **Banco de Dados** na graduação.  
 Os códigos foram elaborados para fixar conceitos básicos e intermediários de SQL, com foco em consultas, manipulação e gerenciamento de dados.
 
+> Ferramenta utilizada: **MySQL**
+
 ---
 
 ## 🎯 Objetivo do Repositório
